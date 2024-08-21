@@ -3,6 +3,8 @@
 
 #### Do you even wonder how Math and Machine Learning could help you save money in transportation for your logistics operation?  
 If that's the case, I may have a solution for you!
+**Please note that GitHub will not load plotly graphs, in order to see the full code with all the plots, please access it using *nbviewer* (link below)
+
 
 
 ![regression](https://github.com/user-attachments/assets/e73af92b-2d5f-48fd-8aa8-1aca2d884747)
