@@ -20,7 +20,7 @@ If you want to run the code, you'll need to:
 > - Run the code with the selected Python interpreter
 
 ## 🛠️ Features
- 1.Import the necessary libraries 
+    1.Import the necessary libraries 
     2.Read and clean the dataset (ETL)
     3.Exploratory Analysis
     4.Feature Engineering
