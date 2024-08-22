@@ -8,8 +8,7 @@ If that's the case, I may have a solution for you!
 **Please note that GitHub will not load plotly graphs, in order to see the full code with all the plots, please access it using *nbviewer* (link below)**
 
 
-
-![regression](https://github.com/user-attachments/assets/e73af92b-2d5f-48fd-8aa8-1aca2d884747)
+![ppt93F8 pptm  Autosaved](https://github.com/user-attachments/assets/6301fc63-c0c0-45ec-b39e-8d39f03c641d)
 
 
 
@@ -26,31 +25,23 @@ If you want to run the code, you'll need to:
 ## 🛠️ Features
     1.Import the necessary libraries 
     2.Read and clean the dataset (ETL)
-    3.Exploratory Analysis
-    4.Feature Engineering
-    5.Normalizing test & Transformation
-    6.Model Building  
-    7.Conclusion
+    3.Study the sales behavior over time
+    4.Analyse the average price paid for a vehicle
+    5.Understand what types of cars are being sold over time
+    6.Study the seasonal components of car types  
+    7.Identify the car companies that are selling the most
+    8.From the top selling company, identify the best-selling car model and color
+    9.Study the average price you should be willing to pay for that particular model 
+    10.Conclusion
 
-Parameter Hyper Tunning
 
 ## 👨‍💻 Tech
 
 Built entirely with **PYTHON** and the following libraries:
 
-  
-> - matplotlib
-> - numpy
 > - pandas
 > - plotly
-> - scikit-learn
-> - scipy
 > - statsmodels
-
-For the model building, the following were analyzed
-  - Decision Tree
-  - Linear Regression
-  - Support Vector
 
 
 ### 🤝 Support/Contact
